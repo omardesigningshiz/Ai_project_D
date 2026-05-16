@@ -17,6 +17,7 @@ The project is broken down into four main scripts that handle the entire workflo
    * **Controls:** Press `SPACEBAR` to add a space, `c` to clear the current text, and `q` to quit the application.
 
 ## 📊 Results and Evaluation
+*(Note: Upload your `convergence_plots.png` and `confusion_matrix.png` to your repository and display them here).*
 
 * **Overall Accuracy:** 97%
 * **Architecture:** 42 Input -> 128 Hidden -> 64 Hidden -> 30 Output
